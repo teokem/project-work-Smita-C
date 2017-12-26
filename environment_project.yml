@@ -1,5 +1,0 @@
-name: PRcompute
-channels:
-- defaults
-prefix: /home/smita/anaconda3/envs/PRcompute
-
