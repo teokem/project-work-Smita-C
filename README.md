@@ -3,6 +3,12 @@
 This is an empty repository for the project work
 of the course "Reproducible and Interactive Data Science".
 
+## Running the Jupyter notebook
+You can launch the notebook from your web browser(without installing anything) from [here](https://mybinder.org/v2/gh/teokem/project-work-Smita-C/master).
+
+## Reviewing the notebook
+You can submit your review by reporting it as an issue directly in the GitHub repository
+
 ## Tasks
 
 1. Upload your project notebook to this repository. For a brief introduction to git repositories, see [here](https://guides.github.com/activities/hello-world/#commit).
